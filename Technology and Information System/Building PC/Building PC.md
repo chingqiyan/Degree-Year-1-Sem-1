@@ -10,3 +10,4 @@ A PC assembly activity took place in the laboratory of N28 building. Students co
 6. CPU <br>
 7. Rearrange all the component back to PC <br>
 8. Lastly, Run and Test to check if it can work <br>
+![photo](https://github.com/chingqiyan/Degree-Year-1-Sem-1/blob/main/Technology%20and%20Information%20System/Building%20PC/depositphotos_481947086-stock-photo-pc-computer-hardware-assembling-and.jpg)
