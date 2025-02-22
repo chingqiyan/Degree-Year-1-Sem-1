@@ -1,1 +1,13 @@
+# SECR1013 DIGITAL LOGIC
+This course introduces digital electronics and overview of many concepts, components, and tools. We will learn about digital fundamentals-from basic concepts to programmable logic devices.
 
+## Course content
+- Digital Logic Overview
+- Number Systems and Codes
+- Logic Gates
+- Boolean Algebra and Logic Simplification
+- Combinational Logic Circuit
+- Functions of Combinational Logic
+- Latches, Flip-Flops and Timers
+- Counters
+- Shift Register
